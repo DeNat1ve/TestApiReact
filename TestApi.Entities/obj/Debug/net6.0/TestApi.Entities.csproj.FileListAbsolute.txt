@@ -1,0 +1,12 @@
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\bin\Debug\net6.0\TestApi.Entities.deps.json
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\bin\Debug\net6.0\TestApi.Entities.dll
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\bin\Debug\net6.0\TestApi.Entities.pdb
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.csproj.AssemblyReference.cache
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.AssemblyInfoInputs.cache
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.AssemblyInfo.cs
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.dll
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\refint\TestApi.Entities.dll
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\TestApi.Entities.pdb
+C:\Users\Native\Desktop\testReactAppApi\TestApi\TestApi.Entities\obj\Debug\net6.0\ref\TestApi.Entities.dll
